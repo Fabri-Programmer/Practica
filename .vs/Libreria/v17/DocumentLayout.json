@@ -1,0 +1,109 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\FABRI LLARA\\source\\repos\\Libreria\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C44A391C-8489-45F0-A64F-EC32A482C21C}|Ejecutable\\Ejecutable.csproj|c:\\users\\fabri llara\\source\\repos\\libreria\\ejecutable\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C44A391C-8489-45F0-A64F-EC32A482C21C}|Ejecutable\\Ejecutable.csproj|solutionrelative:ejecutable\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{575287A9-78D0-4D3A-B8DA-15D26313BA01}|Libreria\\Libreria.csproj|c:\\users\\fabri llara\\source\\repos\\libreria\\libreria\\acuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{575287A9-78D0-4D3A-B8DA-15D26313BA01}|Libreria\\Libreria.csproj|solutionrelative:libreria\\acuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{575287A9-78D0-4D3A-B8DA-15D26313BA01}|Libreria\\Libreria.csproj|c:\\users\\fabri llara\\source\\repos\\libreria\\libreria\\delfin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{575287A9-78D0-4D3A-B8DA-15D26313BA01}|Libreria\\Libreria.csproj|solutionrelative:libreria\\delfin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{575287A9-78D0-4D3A-B8DA-15D26313BA01}|Libreria\\Libreria.csproj|c:\\users\\fabri llara\\source\\repos\\libreria\\libreria\\orca.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{575287A9-78D0-4D3A-B8DA-15D26313BA01}|Libreria\\Libreria.csproj|solutionrelative:libreria\\orca.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C44A391C-8489-45F0-A64F-EC32A482C21C}|Ejecutable\\Ejecutable.csproj|c:\\users\\fabri llara\\source\\repos\\libreria\\ejecutable\\ejecutable.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{C44A391C-8489-45F0-A64F-EC32A482C21C}|Ejecutable\\Ejecutable.csproj|solutionrelative:ejecutable\\ejecutable.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Ejecutable",
+              "DocumentMoniker": "C:\\Users\\FABRI LLARA\\source\\repos\\Libreria\\Ejecutable\\Ejecutable.csproj",
+              "RelativeDocumentMoniker": "Ejecutable\\Ejecutable.csproj",
+              "ToolTip": "C:\\Users\\FABRI LLARA\\source\\repos\\Libreria\\Ejecutable\\Ejecutable.csproj",
+              "RelativeToolTip": "Ejecutable\\Ejecutable.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-10-17T14:52:51.011Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Orca.cs",
+              "DocumentMoniker": "C:\\Users\\FABRI LLARA\\source\\repos\\Libreria\\Libreria\\Orca.cs",
+              "RelativeDocumentMoniker": "Libreria\\Orca.cs",
+              "ToolTip": "C:\\Users\\FABRI LLARA\\source\\repos\\Libreria\\Libreria\\Orca.cs",
+              "RelativeToolTip": "Libreria\\Orca.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T14:45:06.876Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Delfin.cs",
+              "DocumentMoniker": "C:\\Users\\FABRI LLARA\\source\\repos\\Libreria\\Libreria\\Delfin.cs",
+              "RelativeDocumentMoniker": "Libreria\\Delfin.cs",
+              "ToolTip": "C:\\Users\\FABRI LLARA\\source\\repos\\Libreria\\Libreria\\Delfin.cs",
+              "RelativeToolTip": "Libreria\\Delfin.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T14:43:20.231Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Acuario.cs",
+              "DocumentMoniker": "C:\\Users\\FABRI LLARA\\source\\repos\\Libreria\\Libreria\\Acuario.cs",
+              "RelativeDocumentMoniker": "Libreria\\Acuario.cs",
+              "ToolTip": "C:\\Users\\FABRI LLARA\\source\\repos\\Libreria\\Libreria\\Acuario.cs",
+              "RelativeToolTip": "Libreria\\Acuario.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T14:46:07.058Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\FABRI LLARA\\source\\repos\\Libreria\\Ejecutable\\Program.cs",
+              "RelativeDocumentMoniker": "Ejecutable\\Program.cs",
+              "ToolTip": "C:\\Users\\FABRI LLARA\\source\\repos\\Libreria\\Ejecutable\\Program.cs",
+              "RelativeToolTip": "Ejecutable\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T14:40:42.22Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
